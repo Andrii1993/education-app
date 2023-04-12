@@ -1,0 +1,149 @@
+.course_container {
+    // margin: 15px 30px;
+    margin-left: 30px;margin-right: 30px;
+    margin-top: 30px;
+}
+
+.card_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #0076fd;
+    border-radius: 15px;
+    margin-top: 15px;
+    @media (max-width:320px) {
+        display: block;
+    }
+}
+
+.card_img {
+    padding: 15px;
+}
+
+.card_info {
+    padding: 15px;
+}
+
+.card_name {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 142.5%;
+    color: #000000;
+    margin-bottom: 25px;
+    @media (max-width: 768px) {
+        font-size: 16px;
+        line-height: 142.5%;
+    }
+}
+
+.card_description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 142.5%;
+    color: #000000;
+    margin-bottom: 25px;
+    @media (max-width: 768px) {
+        font-size: 16px;
+        line-height: 142.5%;
+    }
+}
+
+.card_price {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 142.5%;
+    color: #000000;
+    margin-top: 125px;
+    margin-right: auto;
+    @media (max-width: 768px) {
+        font-size: 16px;
+        line-height: 142.5%;
+    }
+}
+
+.btn_container {
+    padding-right: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.btn_card {
+    border-radius: 20px;
+    padding: 10px 30px;
+    background-color: #0075FF;
+    color: #FFFFFF;
+    border: none;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 142.5%;
+    cursor: pointer;
+    transition: 0.25s ease-in-out;
+    &:hover {
+        background-color: #FFFFFF ;
+        color: #0075FF;
+        border: 1px solid #0075FF;
+    }
+}
+
+.input  {
+    padding: 15px 30px;
+    border-radius: 15px;
+    border: 1px solid #0075FF;
+    color: #0075FF;
+    @media (max-width:320px) {
+        text-align: center;
+    }
+}
+
+.select {
+    padding: 15px 30px;
+    border-radius: 15px;
+    border: 1px solid #0075FF;
+    color: #0075FF;
+    font-weight: 700;
+    font-style: 24px;
+    @media (max-width:320px) {
+        margin-top: 15px;
+        text-align: center;
+    }
+}
+
+.level {
+    margin-left: 30px;
+    @media (max-width:320px) {
+        margin-top: 15px;
+        margin-left: 0;
+    }
+}
+
+.filter_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    @media (max-width:320px) {
+        display: block;
+        margin-left: auto;
+    }
+}
+
+//pagination
+
+.pagination {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.page-link {
+    background-color: #0075FF;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: 700;
+}

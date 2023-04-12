@@ -1,0 +1,274 @@
+    {
+        "courses": [
+            {
+                "id": 1,
+                "name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+                "image": "https://img-b.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+                "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+                "price": 129.99,
+                "category": "web development",
+                "level": "intermediate"
+            },
+            {
+                "id": 2,
+                "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+                "image": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "price": 199.99,
+                "category": "data science",
+                "level": "beginner"
+            },
+            {
+                "id": 3,
+                "name": "Java Programming Masterclass for Software Developers",
+                "image": "https://img-b.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+                "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+                "price": 129.99,
+                "category": "programming",
+                "level": "advanced"
+            },
+            {
+                "id": 4,
+                "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+                "image": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+                "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+                "price": 199.99,
+                "category": "web development",
+                "level": "advanced"
+            },
+            {
+                "id": 5,
+                "name": "Python for Data Science and Machine Learning Bootcamp",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+                "price": 149.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 6,
+                "name": "The Web Developer Bootcamp",
+                "image": "https://img-b.udemycdn.com/course/240x135/625204_436a_2.jpg",
+                "description": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+                "price": 149.99,
+                "category": "programming",
+                "level": "beginner"
+            },
+            {
+                "id": 7,
+                "name": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+                "image": "https://img-b.udemycdn.com/course/240x135/625204_436a_2.jpg",
+                "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+                "price": 149.99,
+                "category": "web development",
+                "level": "beginner"
+            },
+            {
+                "id": 8,
+                "name": "JavaScript Basics",
+                "image": "https://img-b.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+                "description": "Learn the basics of JavaScript programming language with this comprehensive course.",
+                "price": 49.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 9,
+                "name": "React Fundamentals",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Get started with React and build powerful and efficient user interfaces with ease.",
+                "price": 99.99,
+                "category": "programming",
+                "level": "advanced"
+            },
+            {
+                "id": 10,
+                "name": "Angular Advanced",
+                "image": "https://img-b.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+                "description": "Take your Angular skills to the next level with advanced techniques and best practices.",
+                "price": 149.99,
+                "category": "web development",
+                "level": "advanced"
+            },
+            {
+                "id": 11,
+                "name": "Node.js Essentials",
+                "image": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+                "description": "Learn the essential concepts of Node.js and build scalable and robust web applications.",
+                "price": 79.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 12,
+                "name": "Vue.js Mastery",
+                "image": "https://img-b.udemycdn.com/course/240x135/625204_436a_2.jpg",
+                "description": "Master the Vue.js framework and build amazing applications with ease.",
+                "price": 119.99,
+                "category": "programming",
+                "level": "beginner"
+            },
+            {
+                "id": 13,
+                "name": "CSS Tricks",
+                "image": "https://img-b.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+                "description": "Discover the most powerful CSS tricks and techniques to take your web development skills to the next level.",
+                "price": 29.99,
+                "category": "web development",
+                "level": "beginner"
+            },
+            {
+                "id": 14,
+                "name": "React Native Basics",
+                "image": "https://img-b.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+                "description": "Learn the basics of React Native and build cross-platform mobile apps for iOS and Android.",
+                "price": 99.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 15,
+                "name": "Django for Beginners",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Get started with Django and build your first web application from scratch.",
+                "price": 149.99,
+                "category": "programming",
+                "level": "advanced"
+            },
+            {
+                "id": 16,
+                "name": "Express.js Fundamentals",
+                "image": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+                "description": "Learn the fundamentals of Express.js and build powerful web applications with Node.js.",
+                "price": 69.99,
+                "category": "web development",
+                "level": "advanced"
+            },
+            {
+                "id": 17,
+                "name": "AWS Certified Solutions Architect - Associate 2021",
+                "image": "https://img-b.udemycdn.com/course/240x135/625204_436a_2.jpg",
+                "description": "Get AWS Certified - Solutions Architect - Associate 2021 and Become a Cloud Guru. AWS Certified Solutions Architect",
+                "price": 119.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 18,
+                "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "price": 199.99,
+                "category": "programming",
+                "level": "beginner"
+            },
+            {
+                "id": 19,
+                "name": "Java Programming Masterclass for Software Developers",
+                "image": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+                "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+                "price": 139.99,
+                "category": "web development",
+                "level": "beginner"
+            },
+            {
+                "id": 20,
+                "name": "The Complete Digital Marketing Course - 12 Courses in 1",
+                "image": "https://img-b.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+                "description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+                "price": 149.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 21,
+                "name": "Ultimate Photoshop Training: From Beginner to Pro",
+                "image": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+                "description": "Master Photoshop CC 2021 without any previous knowledge with this easy-to-follow course",
+                "price": 89.99,
+                "category": "programming",
+                "level": "advanced"
+            },
+            {
+                "id": 22,
+                "name": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+                "image": "https://img-b.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+                "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+                "price": 139.99,
+                "category": "web development",
+                "level": "advanced"
+            },
+            {
+                "id": 23,
+                "name": "Microsoft Excel - Excel from Beginner to Advanced",
+                "image": "https://img-b.udemycdn.com/course/240x135/625204_436a_2.jpg",
+                "description": "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Office 365",
+                "price": 129.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 24,
+                "name": "AWS Certified Developer - Associate 2021",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Become an AWS Certified Developer! Learn all AWS Certified Developer Associate topics. PASS the Certified Developer Exam",
+                "price": 119.99,
+                "category": "programming",
+                "level": "beginner"
+            },
+            {
+                "id": 25,
+                "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+                "image": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+                "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                "price": 199.99,
+                "category": "web development",
+                "level": "beginner"
+            },
+            {
+                "id": 26,
+                "name": "Java Programming Masterclass for Software Developers",
+                "image": "https://img-b.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+                "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+                "price": 139.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 27,
+                "name": "The Complete Digital Marketing Course - 12 Courses in 1",
+                "image": "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg",
+                "description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+                "price": 149.99,
+                "category": "programming",
+                "level": "advanced"
+            },
+            {
+                "id": 28,
+                "name": "Ultimate Photoshop Training: From Beginner to Pro",
+                "image": "https://img-b.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+                "description": "Master Photoshop CC 2021 without any previous knowledge with this easy-to-follow course",
+                "price": 89.99,
+                "category": "web development",
+                "level": "advanced"
+            },
+            {
+                "id": 29,
+                "name": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+                "image": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+                "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+                "price": 139.99,
+                "category": "data science",
+                "level": "intermediate"
+            },
+            {
+                "id": 30,
+                "name": "Microsoft Excel - Excel from Beginner to Advanced",
+                "image": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+                "description": "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Office 365",
+                "price": 129.99,
+                "category": "programming",
+                "level": "beginner"
+            }
+        ]
+    }
